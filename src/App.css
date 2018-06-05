@@ -1,0 +1,82 @@
+.App {
+  height: 50%;
+  width: 100%;
+  color: white;
+}
+/* main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+} */
+
+main {
+  height: 60vh;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  height: 100px;
+  padding: 20px;
+  color: white;
+}
+
+.nav-bar li {
+  display: inline-block;
+  margin-left: 1vw;
+}
+
+.brochure {
+  display: flex;
+  color: white;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 20px;
+  background:rgba(108, 18, 123, 0.46);
+  height: 65vh;
+  width: 88vw;
+  margin-left: 6vw;
+  box-shadow: 5px 10px 20px #2e2c2c;
+
+}
+
+.brochure p {
+  font-size: 15px;
+  color: white;
+  opacity: 1;
+}
+
+.brochure h4 {
+  font-size: 2em;
+  color: white;
+  opacity: 1;
+}
+
+.start-game {
+  color: white;
+  background-color: #999999;
+  border: black;
+  border-radius: 5px;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  width: 200px;
+  height: 50px;
+  margin-bottom: 3vh;
+}
+
+.trivia {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+footer p {
+  margin: 100% auto;
+  position: fixed;
+}
+
+/* Button */
+

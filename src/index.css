@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url("https://vignette.wikia.nocookie.net/gameshows/images/c/c6/Jeopardy_slot_bg-1-.jpg/revision/latest?cb=20160401184319");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;  
+  height: 100vh;
+  width: 100%;
+}
